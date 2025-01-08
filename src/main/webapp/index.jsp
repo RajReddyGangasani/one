@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DevOps trainer Engineer and verygood Trainer Portfolio</title>
+    <title>DevOps teacher</title>
     <style>
         /* General Styles */
         body {
